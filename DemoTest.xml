@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="RegistrationTestSuite.TestSuite"/>
+      <methods>
+        <exclude name="verifyRegistration" />
+        <include name="verifySubMenu" />
+        <include name="verifyTabs" />
+        <include name="verifyTooltip" />
+        <include name="verifyDroppable" />
+      </methods>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

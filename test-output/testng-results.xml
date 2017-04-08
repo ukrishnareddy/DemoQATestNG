@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11621" started-at="2017-04-08T09:06:33Z" finished-at="2017-04-08T09:06:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11621" started-at="2017-04-08T09:06:33Z" finished-at="2017-04-08T09:06:45Z">
+      <class name="RegistrationTestSuite.TestSuite">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:RegistrationTestSuite.TestSuite@2e55dd0c]" name="beforeTest" is-config="true" duration-ms="5151" started-at="2017-04-08T14:36:33Z" finished-at="2017-04-08T14:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifySubMenu()[pri:0, instance:RegistrationTestSuite.TestSuite@2e55dd0c]" name="verifySubMenu" duration-ms="1538" started-at="2017-04-08T14:36:39Z" finished-at="2017-04-08T14:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubMenu -->
+        <test-method status="PASS" signature="verifyTabs()[pri:0, instance:RegistrationTestSuite.TestSuite@2e55dd0c]" name="verifyTabs" duration-ms="1520" started-at="2017-04-08T14:36:40Z" finished-at="2017-04-08T14:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTabs -->
+        <test-method status="PASS" signature="verifyTooltip()[pri:0, instance:RegistrationTestSuite.TestSuite@2e55dd0c]" name="verifyTooltip" duration-ms="1111" started-at="2017-04-08T14:36:42Z" finished-at="2017-04-08T14:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTooltip -->
+        <test-method status="PASS" signature="verifyDroppable()[pri:0, instance:RegistrationTestSuite.TestSuite@2e55dd0c]" name="verifyDroppable" duration-ms="1185" started-at="2017-04-08T14:36:43Z" finished-at="2017-04-08T14:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDroppable -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:RegistrationTestSuite.TestSuite@2e55dd0c]" name="afterTest" is-config="true" duration-ms="1086" started-at="2017-04-08T14:36:44Z" finished-at="2017-04-08T14:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- RegistrationTestSuite.TestSuite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
